@@ -1,14 +1,14 @@
 A selection of processing codes I made in 2020-2021.
 Some are a bit goofy and arent written well, but it was a fun introduction to coding simulations and they occasionally produced some cool results, as shown below:
 
-file:///home/james/Pictures/cool_simulations/kernel_image_processing.png![a moose but printed on the school printer because of a funky kernel](https://user-images.githubusercontent.com/78174712/173696064-30b2e9ee-6430-4493-8920-884e4c997bb3.png)
-file:///home/james/Pictures/cool_simulations/electric_charges_2.png![electric charges with the background colored accordingly](https://user-images.githubusercontent.com/78174712/173695955-20598033-c586-4da0-9caf-34bdcf4122fb.png)
-file:///home/james/Pictures/cool_simulations/electric_charges_2.png![electric charges with the background colored accordingly](https://user-images.githubusercontent.com/78174712/173695961-1890d5a8-e572-408d-a638-f62c56869a7a.png)
-file:///home/james/Pictures/cool_simulations/electric_charges_1.png![electric charges acting on point masses](https://user-images.githubusercontent.com/78174712/173695882-07457e96-745e-4517-95c1-76e08b4b29d0.png)
-file:///home/james/Pictures/cool_simulations/flowfield_1.png![particles in a flow field](https://user-images.githubusercontent.com/78174712/173695986-b6b48245-8b6b-4553-ac7f-e2bfce7373e7.png)
+![a moose but printed on the school printer because of a funky kernel](https://user-images.githubusercontent.com/78174712/173696064-30b2e9ee-6430-4493-8920-884e4c997bb3.png)
+![electric charges with the background colored accordingly](https://user-images.githubusercontent.com/78174712/173695955-20598033-c586-4da0-9caf-34bdcf4122fb.png)
+![electric charges with the background colored accordingly](https://user-images.githubusercontent.com/78174712/173697170-4e523502-6fd6-4212-9e1e-5e4edc762d48.png)
+![electric charges acting on point masses](https://user-images.githubusercontent.com/78174712/173695882-07457e96-745e-4517-95c1-76e08b4b29d0.png)
+![particles in a flow field](https://user-images.githubusercontent.com/78174712/173695986-b6b48245-8b6b-4553-ac7f-e2bfce7373e7.png)
 file:///home/james/Pictures/cool_simulations/flowfield_4.png![particles in a flow field](https://user-images.githubusercontent.com/78174712/173696016-227b5f54-4444-490e-974f-37af620fe9ea.png)
-file:///home/james/Pictures/cool_simulations/modernart_1.png![perlin noise mapped to different color ranges](https://user-images.githubusercontent.com/78174712/173696142-7b02429b-a198-4bee-8ed5-a03b23fdc85c.png)
-file:///home/james/Pictures/cool_simulations/grandpa_screensaver.png![lines that bounce off walls with color](https://user-images.githubusercontent.com/78174712/173696025-2d335d10-c067-4bc2-94b3-7cc0df338f04.png)
+![perlin noise mapped to different color ranges](https://user-images.githubusercontent.com/78174712/173696142-7b02429b-a198-4bee-8ed5-a03b23fdc85c.png)
+![lines that bounce off walls with color](https://user-images.githubusercontent.com/78174712/173696025-2d335d10-c067-4bc2-94b3-7cc0df338f04.png)
 file:///home/james/Pictures/cool_simulations/gravity_particles_1.png![simple gravity simulation with initial velocities](https://user-images.githubusercontent.com/78174712/173696043-654ddd47-b22d-4baa-8fdd-b2e482083236.png)
 file:///home/james/Pictures/cool_simulations/linesinacircle_2.png![lines that bounce off the walls](https://user-images.githubusercontent.com/78174712/173696101-43fa0c84-3349-4239-bd34-c8b5bf563a29.png)
 file:///home/james/Pictures/cool_simulations/noise.png![some noise](https://user-images.githubusercontent.com/78174712/173696161-e23fda77-5522-4d9f-9e6c-3cc1f7c65e8e.png)
